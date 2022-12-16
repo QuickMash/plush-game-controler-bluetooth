@@ -2,7 +2,9 @@
     "name": "Plush Game Controler Bluetooth",
     "description": "",
     "dependencies": {
-        "adafruit-circuit-playground-bluefruit": "*"
+        "adafruit-circuit-playground-bluefruit": "*",
+        "gamepad": "*",
+        "keyboard": "*"
     },
     "files": [
         "main.blocks",
